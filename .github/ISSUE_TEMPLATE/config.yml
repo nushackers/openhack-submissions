@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: OpenHack Email Address 
+    url: mailto:openhack@nushackers.org
+    about: Please direct any OpenHack related questions here.
