@@ -1,19 +1,15 @@
 ---
 name: Submission
 about: Enter details for your OpenHack submission here!
-title: Submission - [Your Name Here]
+title: Submission - [GitHub Username Here]
 labels: submission
 assignees: ''
 
 ---
 
-## Personal Particulars
-
-**Name:** [Your Name]
-
 ## Submission Details
 
-**Type of submission:**
+**Type of Submission:**
 
 <!-- Choose minimally one -->
 
@@ -32,4 +28,4 @@ assignees: ''
 
 **Link to open-source project:**
 
-**Additional details (optional):**
+**Additional information (optional):**
